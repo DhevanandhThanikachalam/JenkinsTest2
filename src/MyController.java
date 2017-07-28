@@ -31,7 +31,7 @@ public class MyController extends HttpServlet {
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 		System.out.println("Printing Connection object");
 		System.out.println("Conn "+conn);
-		System.out.println("Trying automatic build");
+		System.out.println("Trying automatic build 2");
 	
 	}
 
